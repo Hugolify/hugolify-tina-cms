@@ -14,19 +14,19 @@
 
 ## Settings
 
-*To add*
+_To add_
 
 ## Features
 
-*To add*
+_To add_
 
 ## Extras features
 
-*To add*
+_To add_
 
 ## Screenshot
 
-*To add*
+_To add_
 
 ## Linked repository
 

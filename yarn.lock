@@ -1022,6 +1022,11 @@
   resolved "https://registry.yarnpkg.com/@heroicons/react/-/react-1.0.6.tgz#35dd26987228b39ef2316db3b1245c42eb19e324"
   integrity sha512-JJCXydOFWMDpCP4q13iEplA503MQO3xLoZiKum+955ZCtHINWnx26CUxVxxFQu/uLb4LW3ge15ZpzIkXKkJ8oQ==
 
+"@hugolify/prettier-config@^0.3.1":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@hugolify/prettier-config/-/prettier-config-0.3.1.tgz#0a50ffd2747fd14df14bac02bf76147b66c0ab09"
+  integrity sha512-t74NNtPARZLeMRfof+lYG3/tzLTj8uDm+g41ncpJm9wWePqLoqo3clYa0GAoPTNiiSFCWoL1NcZ+0u/SUKj8Lw==
+
 "@iarna/toml@^2.2.5":
   version "2.2.5"
   resolved "https://registry.yarnpkg.com/@iarna/toml/-/toml-2.2.5.tgz#b32366c89b43c6f8cefbdefac778b9c828e3ba8c"
